@@ -1,4 +1,5 @@
-class Scratch {
+class GoatsTeleop
+{
     public static void main(String[] args) {
         package org.firstinspires.ftc.teamcode;
 
